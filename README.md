@@ -1,55 +1,25 @@
-# Astro Starter Kit: Basics
 
-```sh
-npm create astro@latest -- --template basics
-```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+# Astro and GSAP Landing Pages
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+![image](https://github.com/miguelrodriguezp99/Gsap_landings/assets/72866796/62cad0ba-6bc5-451f-a58a-7e7b320f535e)
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+This repository contains a collection of landing pages built using [Astro](https://astro.build/), with animations powered by [GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/), utilizing HTML and CSS for styling.
 
-## 🚀 Project Structure
+## Description
 
-Inside of your Astro project, you'll see the following folders and files:
+The purpose of this project is to showcase the effective use of Astro in conjunction with GSAP to create visually appealing and dynamically animated user interfaces. Each landing page is crafted to provide a smooth and visually impressive user experience.
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## Technologies Used
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+- **Astro**: A modern framework that provides efficient integration and performance optimization for building static websites.
+- **HTML**: The foundation of page structure.
+- **CSS**: Used for styling and layout of page elements.
+- **GSAP**: Implemented to add complex and high-performance animations to UI elements.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+## Getting Started
 
-Any static assets, like images, can be placed in the `public/` directory.
+To get started with this project, follow these steps:
 
-## 🧞 Commands
+1. **Clone the repository:**
 
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-"# Gsap_landings" 
