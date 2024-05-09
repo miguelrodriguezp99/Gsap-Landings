@@ -8,7 +8,7 @@ This repository contains a collection of landing pages built using [Astro](https
 
 ## Description
 
-The purpose of this project is to showcase the effective use of Astro in conjunction with GSAP to create visually appealing and dynamically animated user interfaces. Each landing page is crafted to provide a smooth and visually impressive user experience.
+The purpose of this project is educational, designed to showcase the effective use of Astro in conjunction with GSAP to create visually appealing and dynamically animated user interfaces based on designs from other creators.
 
 ## Technologies Used
 
@@ -16,10 +16,4 @@ The purpose of this project is to showcase the effective use of Astro in conjunc
 - **HTML**: The foundation of page structure.
 - **CSS**: Used for styling and layout of page elements.
 - **GSAP**: Implemented to add complex and high-performance animations to UI elements.
-
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. **Clone the repository:**
 
