@@ -17,9 +17,3 @@ The purpose of this project is to showcase the effective use of Astro in conjunc
 - **CSS**: Used for styling and layout of page elements.
 - **GSAP**: Implemented to add complex and high-performance animations to UI elements.
 
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. **Clone the repository:**
-
